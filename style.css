@@ -15,3 +15,39 @@
     font-style: italic;
     font-display: swap;
 }
+
+@font-face {
+    font-family: "Mont";
+    src: url("Mont-Bold-b2bb957ae0f6f57f974e16b06641ece3.woff2")  format('woff2'),
+    url("Mont-Bold-efd54e736e9b6208710472c9c1479659.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 800 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Mont";
+    src: url("Mont-Light-567ec626ffbec518e9312fd59856e870.woff2")  format('woff2'),
+    url("Mont-Light-b2eac4c24494fce5da9406191a68a06e.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 100 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Mont";
+    src: url("Mont-Regular-fa399e85bafea6544c17220d8599c59e.woff2")  format('woff2'),
+    url("Mont-Regular-abb74a597efa488c9c0e5da1cf8f8570.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Mont";
+    src: url("Mont-SemiBold-594b8cebcb2544b0c40f6f8f880a91e3.woff2")  format('woff2'),
+    url("Mont-SemiBold-5cf16df9fb7a9a4aafd56cb48be75cf2.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
