@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"),
+    url("Montserrat-VariableFont_wght-f8e0d455f98badaba45462dc85ad5ffc.woff2")  format('woff2'),
+    url("Montserrat-VariableFont_wght-52a37115b1d8d5d6ae0b0e373e692c9d.ttf") format("truetype");
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat Italic"),
+    url("Montserrat-Italic-VariableFont_wght-b0dd52403c37f9a07a7d7fcd8cde563e.woff2")  format('woff2'),
+    url("Montserrat-Italic-VariableFont_wght-5b315bd5a3b7fa34eef7dfd5786b90b0.ttf") format("truetype");
+    font-style: italic;
+    font-display: swap;
+}
